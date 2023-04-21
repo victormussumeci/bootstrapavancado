@@ -1,0 +1,60 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto ;
+    box-sizing: border-box;
+    font-family: 'Anton', sans-serif;
+    font-size: 18px;
+    color: white;
+}
+header{
+    background-color: black;
+}
+#imagen{
+    align-items: center;
+    text-align: center;
+}
+header img{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+}
+.nav-link .active{
+    font-family: 'Anton', sans-serif;
+    font-size: 18px;
+    color: white;
+    color: white;
+}
+.nav-link {
+    font-family: 'Anton', sans-serif;
+    font-size: 18px;
+    color: white;
+    color: white;
+}
+.nav-link:hover{
+    color: rgb(228, 53, 10);
+}
+.navbar-toggler-icon{
+    background-color: white;
+    color: beige;
+}
+.carousel-item img{
+    height: 400px;
+}
+.carousel-item h5, p{
+    color: white;
+    font-size: 27px;
+}
+.card-img{
+    height: 450px;
+}
+.cards-control{
+    margin-bottom: 400px;    
+    height: 100px;
+    
+
+}
+.titulo{
+    color: black;
+    font-size: 34px;
+    padding: 30px;
+}
